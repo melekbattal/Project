@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project", "Project\Project.csproj", "{FEAE709B-BA96-4E66-A861-077622835A52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{DF7ACA71-D0CD-4AAA-AB31-92321EBB03EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDemo", "GameDemo\GameDemo.csproj", "{D903B2C9-533A-4ADE-B8A4-99F30DDC8BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEAE709B-BA96-4E66-A861-077622835A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAE709B-BA96-4E66-A861-077622835A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAE709B-BA96-4E66-A861-077622835A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAE709B-BA96-4E66-A861-077622835A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7ACA71-D0CD-4AAA-AB31-92321EBB03EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7ACA71-D0CD-4AAA-AB31-92321EBB03EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7ACA71-D0CD-4AAA-AB31-92321EBB03EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7ACA71-D0CD-4AAA-AB31-92321EBB03EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D903B2C9-533A-4ADE-B8A4-99F30DDC8BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D903B2C9-533A-4ADE-B8A4-99F30DDC8BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D903B2C9-533A-4ADE-B8A4-99F30DDC8BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D903B2C9-533A-4ADE-B8A4-99F30DDC8BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C149AD0-4755-4D86-8768-015BBCE1559A}
+	EndGlobalSection
+EndGlobal
